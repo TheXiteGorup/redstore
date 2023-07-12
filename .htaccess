@@ -1,0 +1,3 @@
+DirectoryIndex index.html
+RewriteEngine On
+RewriteRule ^account\.html$ /account.php [L,R=301]
